@@ -1,0 +1,16 @@
+
+    "webroot": "wwwroot",
+    "version": "1.0.0-*",
+
+    "dependencies": {
+    },
+
+    "commands": {
+    },
+
+    "frameworks": {
+    },
+
+    "publishExclude": [],
+    "exclude": []
+}
